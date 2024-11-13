@@ -7,7 +7,10 @@
 			"files": [
 				"/Users/vrunda/Documents/STUDY/SEM 2/Mobile Game Design/Assignment 5/Assignment5/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset",
 				"/Users/vrunda/Documents/STUDY/SEM 2/Mobile Game Design/Assignment 5/Assignment5/Content/MyContent/Audio/background_sound.uasset",
-				"/Users/vrunda/Documents/STUDY/SEM 2/Mobile Game Design/Assignment 5/Assignment5/Content/VRTemplate/Maps/VRTemplateMap.umap"
+				"/Users/vrunda/Documents/STUDY/SEM 2/Mobile Game Design/Assignment 5/Assignment5/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"/Users/vrunda/Documents/STUDY/SEM 2/Mobile Game Design/Assignment 5/Assignment5/Content/MyContent/MyMaterial/GeorgianColor1.uasset",
+				"/Users/vrunda/Documents/STUDY/SEM 2/Mobile Game Design/Assignment 5/Assignment5/Content/MyContent/MyMaterial/GeorgianColor2.uasset",
+				"/Users/vrunda/Documents/STUDY/SEM 2/Mobile Game Design/Assignment 5/Assignment5/Content/MyContent/Model/3DName/Material_001.uasset"
 			]
 		}
 	]
